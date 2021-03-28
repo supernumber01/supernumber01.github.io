@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人简历
 
 You can use the [editor on GitHub](https://github.com/supernumber01/supernumber01.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
